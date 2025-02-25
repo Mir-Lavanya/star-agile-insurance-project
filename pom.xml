@@ -12,7 +12,7 @@
 	<artifactId>insure-me</artifactId>
 	<version>1.0</version> 
 	<name>Insure-me</name>
-	<description>Industry ready project on based on Insurance Domain</description>
+	<description>Industry ready project on based on Insurance Domain project</description>
 	<properties>
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
